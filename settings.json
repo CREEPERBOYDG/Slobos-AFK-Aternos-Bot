@@ -62,7 +62,7 @@
     "combat": false,
     "beds": true,
     "chat": false,
-    "console-commands": true
+    "console-commands": false
   },
   "combat": {
     "attack-mobs": true,
@@ -70,7 +70,7 @@
   },
   "beds": {
     "pick-up-day": false,
-    "place-night": false
+    "place-night": true
   },
   "discord": {
     "enabled": false,
