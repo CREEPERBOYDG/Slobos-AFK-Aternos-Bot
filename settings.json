@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "vsss.play.hosting",
-    "port": ,
+    "port": 25565,
     "version": "1.21.1",
     "try-creative": true
   },
